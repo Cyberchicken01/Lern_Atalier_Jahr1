@@ -1,34 +1,51 @@
-# Lern-Periode 1
-Name: Exemplibus Exemplio
+# Lern-Periode 
+Name: Enes Zeqiri
 
-12.08.2024 bis 29.09.2024
+19.09.2025 bis 26.09.2025
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Habe noch keine Noten
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
+Noch keine Veränderungen dokumentiert
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 
+Modul 319: Mission 8 → Kontrollstrukturen & Verschachtelung
+
+Modul 431: Aufgaben 1713 und 1715 erledigt
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
+Verständnis und Sicherheit im Umgang mit verschachtelten Kontrollstrukturen in C#
 
-## 16.08.2024
+Verbesserung der Code-Formatierung (sauberer, übersichtlicher Code)
 
-Heute habe ich... (50-100 Wörter)
+GitHub Markdown trainieren
 
-## Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+Eigenständiges Reflektieren und Vergleichen mit Musterlösungen
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+## 19.09.2025
 
-(Heute habe ich... (50-100 Wörter))
+Mission 8 in Modul 319 abgeschlossen (Kontrollstrukturen & Verschachtelung)
 
+Übungen mit GitHub Markdown gemacht
+
+Planung für ein eigenes Projekt bis Ende der Woche begonnen
+
+## Planung 26.05.25
+Mission 8 in Modul 319 abgeschlossen
+
+Fokus auf sauberen Code mit Kommentaren
+
+Entscheidung für ein eigenes Projekt bis Ende dieser Woche treffen
+
+Mit GitHub Markdown trainieren
+
+Vorbereiten auf Reflexion der Lernperiode
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+
+Ich habe Mission 8 in Modul 319 abgeschlossen und den Umgang mit verschachtelten Kontrollstrukturen in C# geübt. Wichtig war dabei saubere Formatierung und klare Struktur. Außerdem habe ich begonnen, mit GitHub Markdown zu trainieren. Nächste Schritte: eigenes Projekt auswählen und weiter mit Markdown dokumentieren.
+
+
