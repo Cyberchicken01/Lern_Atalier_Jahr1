@@ -5,34 +5,39 @@ Name: Enes Zeqiri
 
 ## Grob-Planung
 ### Noten
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Ich habe aktuell einen Durchschnitt von 5.125. 
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Ich möchte in dieser Lernperiode aktiver und produktiver arbeiten. Ich will weniger Zeit verlieren und mehr selbstständig arbeiten.
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Ich möchte einen DNS-Filterserver mit Dashboard in C# machen.
+Der Server soll Domains blockieren können und ich will dazu eine API und ein Dashboard bauen. Dabei möchte ich besser verstehen, wie DNS und C# funktionieren
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+- Ich arbeite aktiver und konzentrierter im Unterricht
+
+- Ich kann einen einfachen DNS-Server in C# programmieren
+
+- Ich kann eine API erstellen und verstehen
+
+- Ich kann ein einfaches Dashboard entwickeln
+
+- Ich verbessere meine Selbstständigkeit beim Lernen
 
 
-## 16.08.2024
+## 20.03.2025
+Heute habe ich mich mit dem Thema DNS und meinem Projekt beschäftigt. Ich habe versucht zu verstehen, wie DNS-Anfragen funktionieren und wie ein Server darauf reagiert. Zusätzlich habe ich mich mit C# und Sockets auseinandergesetzt. Ich habe erste Beispiele angeschaut und versucht nachzuvollziehen, wie ein Server Anfragen empfangen kann. Es war teilweise schwierig, aber ich habe ein besseres Verständnis für die Grundlagen bekommen.
 
-Heute habe ich... (50-100 Wörter)
+## Planung 27.03.2025
 
-## Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+[] C# Grundlagen wiederholen (Syntax, Variablen, Methoden)
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+[] Mit Sockets in C# beschäftigen
 
-(Heute habe ich... (50-100 Wörter))
+[] Grundlagen von DNS nochmals anschauen
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+[] Informationen zum DNS-Filterserver sammeln
 
+[] Kleine Übungen in C# machen
 
-
-test um zu schauen ob es funktioniert
