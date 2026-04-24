@@ -8,27 +8,26 @@ Name: Enes Zeqiri
 ich habe einen schnitt von 5.3
 
 ### Veränderungen
-Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren verbessern und mein wissen anwenden.
 
 ### Projekte / neue Technologien
-Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 
 ### Generelle Ziele
-Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+- Besser werdern in C#
+- Python auch lernen.
 
 
-## 16.08.2024
+## 24.04.25
 
-Heute habe ich... (50-100 Wörter)
+heute habe ich mit den Adruino gerabeitet, es kennen gelernt und LED probiert.
+Ich habe weiter mit C# gemacht und will bald mit einem Simplen projekt beginnen.
 
-## Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
+## Planung 01.05.26
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- Neues C# Projekt finden
+- Lilygo t-embed mit bringen und verlgeichen mit Adruimo r4 wifi.
 
-(Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Leer lassen bis ende Lernperiode_4.
