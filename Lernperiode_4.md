@@ -23,6 +23,9 @@ heute habe ich weiter an der cisco webseite python kursgearbeitet.
 ## Planung 15.05.26
 
 - python projekt finden
+- python lernen
+- c# weitermachen
+- c# projekt finde
 
 
 ## Lernperiode Reflexion
