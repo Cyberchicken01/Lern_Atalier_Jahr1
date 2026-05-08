@@ -25,7 +25,7 @@ heute habe ich weiter an der cisco webseite python kursgearbeitet.
 - python projekt finden
 - python lernen
 - c# weitermachen
-- c# projekt finde
+- c# projekt finden
 
 
 ## Lernperiode Reflexion
