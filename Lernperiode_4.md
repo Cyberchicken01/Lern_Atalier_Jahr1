@@ -20,7 +20,7 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 
 ## 08.04.25
 heute habe ich weiter an der cisco webseite python kursgearbeitet.
-## Planung 15.05.26
+## Planung 22.05.26
 
 - python projekt finden oder c# projekt finden
 - python lernen
