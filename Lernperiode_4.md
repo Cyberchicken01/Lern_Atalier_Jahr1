@@ -18,15 +18,11 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 - Python auch lernen.
 
 
-## 24.04.25
+## 08.04.25
+heute habe ich weiter an der cisco webseite python kursgearbeitet.
+## Planung 15.05.26
 
-heute habe ich mit den Adruino gerabeitet, es kennen gelernt und LED probiert.
-Ich habe weiter mit C# gemacht und will bald mit einem Simplen projekt beginnen.
-
-## Planung 01.05.26
-
-- Neues C# Projekt finden
-- Lilygo t-embed mit bringen und verlgeichen mit Adruimo r4 wifi.
+- python projekt finden
 
 
 ## Lernperiode Reflexion
