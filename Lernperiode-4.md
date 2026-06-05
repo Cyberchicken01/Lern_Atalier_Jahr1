@@ -23,15 +23,11 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 
 ## Tagesplanungen
 
-### Planung 29.05.26
-
-Ich habe mich heute mit den Cloude Service AWS vertaut gemacht, mache eines Kurs bin noch am Anfang. Es hat die verschieden AWS dienste erklärt und wie sie funktioniren. Ich habe auch angeschaut was man auch brauch als Cloud engineer und habe herausgefunden das Linux sehr wichtig ist und deswegen noch nachgeschaut wie man eien Dual-Boot mit mit dem Betriebssystem auf einer Exteren SSD.
-
 ### Planung 05.06.26
 
-- Den AWS-Kurs weiterbearbeiten und die nächsten Module abschliessen.
-  
-- Die wichtigsten AWS-Dienste (EC2, S3 und IAM) besser verstehen.
+Ich habe heute den AWS kurs beendet, ich finde er war gut aber nicht hilfreich wie erwartet. Zu Linux ich konnte es nicht auf der Externen SSD nicht einrichtun das ich nicht die Zeit hate die SSD zu kaufen. Aber ich konnte micht trozdem irgendwie ein bischien mit der VM beschäftig es war aber nicht so hilfreich weil die VM sehr langsam war.
+
+### Planung 12.06.26
 
 - Linux auf einer externen SSD installieren und den Dual-Boot einrichten.
 
@@ -39,7 +35,9 @@ Ich habe mich heute mit den Cloude Service AWS vertaut gemacht, mache eines Kurs
 
 - Mich weiter über die Anforderungen und Aufgaben eines Cloud Engineers informieren.
 
+- Weiter mit Python machen 
+
 
 
 ## Lernperiode Reflexion
-Ich habe mich mit etwas neuen zusammen gesetzt und mir gedanken gemacht was man für ein Projekt machen kann. Algemein hätte ich heute etwas produktiver arbeiten aber es war auch sehr anstrengen dadurch das es so theoretisch war.
+nocht nicht ausfühlen
