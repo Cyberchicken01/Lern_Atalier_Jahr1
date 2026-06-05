@@ -21,11 +21,13 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 - Linux vertraut machen.
 - Cloud Services vertraut, machen verstehen und damit arbeiten.
 
-## Tageseinträge (29.05.26)
+## Tagesplanungen
+
+### Planung 29.05.26
 
 Ich habe mich heute mit den Cloude Service AWS vertaut gemacht, mache eines Kurs bin noch am Anfang. Es hat die verschieden AWS dienste erklärt und wie sie funktioniren. Ich habe auch angeschaut was man auch brauch als Cloud engineer und habe herausgefunden das Linux sehr wichtig ist und deswegen noch nachgeschaut wie man eien Dual-Boot mit mit dem Betriebssystem auf einer Exteren SSD.
 
-## Planungseinträge (05.06.26)
+### Planung 05.06.26
 
 - Den AWS-Kurs weiterbearbeiten und die nächsten Module abschliessen.
   
