@@ -2,7 +2,7 @@
 Name: Enes Zeqiri
 
 ## Zeitraum
-24.04.26-26.06.26
+24.04.2026-26.06.2026
 
 ## Grob-Planung
 ### Noten
