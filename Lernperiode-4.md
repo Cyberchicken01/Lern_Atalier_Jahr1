@@ -25,15 +25,21 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 
 ### Planung 05.06.26
 
-Ich habe heute den AWS kurs beendet, ich finde er war gut aber nicht hilfreich wie erwartet. Zu Linux ich konnte es nicht auf der Externen SSD nicht einrichtun das ich nicht die Zeit hate die SSD zu kaufen. Aber ich konnte micht trozdem irgendwie ein bischien mit der VM beschäftig es war aber nicht so hilfreich weil die VM sehr langsam war.
+Heute habe ich weiter mit dem Python Kurs von Cisco weier gemacht, bezüglich LInux habe ich es immer noch nicht gemacht weil ich immer noch nicht die SSD gekauft habe. Aber ich habe mir Youtube videos bezüglich die befehle und wie man es benutzt. Und ich habe weiter informiert was eine Cloud-Engineer können muss.
 
 ### Planung 12.06.26
 
-- Linux auf einer externen SSD installieren und den Dual-Boot einrichten.
+- (Linux auf einer externen SSD installieren und den Dual-Boot einrichten.)
 
-- Grundlegende Linux-Befehle lernen und anwenden.
+- (Grundlegende Linux-Befehle anwenden.)
+
+- Grundlegende Linux-Befehle lernen.
 
 - Mich weiter über die Anforderungen und Aufgaben eines Cloud Engineers informieren.
+
+- Mit Docker vertraut gemacht, um Packeges zu verstehen.
+
+- Mit teraform code deployen
 
 - Weiter mit Python machen 
 
