@@ -23,11 +23,11 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 
 ## Tagesplanungen
 
-### Planung 05.06.26
+### Planung 12.06.26
 
 Heute habe ich weiter mit dem Python Kurs von Cisco weier gemacht, bezüglich LInux habe ich es immer noch nicht gemacht weil ich immer noch nicht die SSD gekauft habe. Aber ich habe mir Youtube videos bezüglich die befehle und wie man es benutzt. Und ich habe weiter informiert was eine Cloud-Engineer können muss.
 
-### Planung 12.06.26
+### Planung 19.06.26
 
 - (Linux auf einer externen SSD installieren und den Dual-Boot einrichten.)
 
