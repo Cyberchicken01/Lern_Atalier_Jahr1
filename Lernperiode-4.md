@@ -25,23 +25,25 @@ Ich möchte in dieser Lernperiode Produktiver werden und mich in Programmieren v
 
 ### Planung 12.06.26
 
-Heute habe ich weiter mit dem Python Kurs von Cisco weier gemacht, bezüglich LInux habe ich es immer noch nicht gemacht weil ich immer noch nicht die SSD gekauft habe. Aber ich habe mir Youtube videos bezüglich die befehle und wie man es benutzt. Und ich habe weiter informiert was eine Cloud-Engineer können muss.
+Bezüglich Linux habe ich mich weiterhin durch Videos und Dokumentationen mit den grundlegenden Befehlen vertraut gemacht. Die Installation von Linux auf einer externen SSD und die Einrichtung eines Dual-Boot-Systems konnte ich noch nicht umsetzen, da ich die benötigte SSD noch nicht gekauft habe.
+
+Ausserdem habe ich mich mit Docker beschäftigt und erste Einblicke erhalten, wie Container funktionieren und weshalb sie in modernen Cloud-Umgebungen eingesetzt werden. Terraform habe ich mir ebenfalls angeschaut, um zu verstehen, wie Infrastruktur als Code erstellt und verwaltet werden kann.
+
+Insgesamt habe ich versucht, in mehreren Bereichen Fortschritte zu machen und mein Wissen im Bereich Cloud Engineering Schritt für Schritt auszubauen.
 
 ### Planung 19.06.26
 
-- (Linux auf einer externen SSD installieren und den Dual-Boot einrichten.)
-
-- (Grundlegende Linux-Befehle anwenden.)
-
-- Grundlegende Linux-Befehle lernen.
-
-- Mich weiter über die Anforderungen und Aufgaben eines Cloud Engineers informieren.
-
-- Mit Docker vertraut gemacht, um Packeges zu verstehen.
-
-- Mit teraform code deployen
-
-- Weiter mit Python machen 
+- (Linux auf einer externen SSD installieren und Dual-Boot einrichten .)
+  
+- Die wichtigsten Linux-Befehle praktisch anwenden und festigen.
+  
+- Mit dem Python-Kurs von Cisco weiterarbeiten.
+  
+- Ein erstes Docker-Projekt erstellen und grundlegende Docker-Befehle anwenden.
+  
+- Terraform installieren und ein einfaches Beispielprojekt erstellen.
+  
+- Mich weiter über Cloud-Architekturen und die Aufgaben eines Cloud Engineers informieren.
 
 
 
