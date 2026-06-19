@@ -31,6 +31,8 @@ Ausserdem habe ich mich mit Docker beschäftigt und erste Einblicke erhalten, wi
 
 Insgesamt habe ich versucht, in mehreren Bereichen Fortschritte zu machen und mein Wissen im Bereich Cloud Engineering Schritt für Schritt auszubauen.
 
+Ich habe auch weiter am Cisco Pythonkurs gerabeitet.
+
 ### Planung 19.06.26
 
 - (Linux auf einer externen SSD installieren und Dual-Boot einrichten .)
