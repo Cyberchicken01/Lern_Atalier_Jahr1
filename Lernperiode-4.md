@@ -33,7 +33,7 @@ Insgesamt habe ich versucht, in mehreren Bereichen Fortschritte zu machen und me
 
 Ich habe auch weiter am Cisco Pythonkurs gerabeitet.
 
-### Planung 19.06.26
+### Planung 26.06.26
 
 - (Linux auf einer externen SSD installieren und Dual-Boot einrichten .)
   
@@ -47,7 +47,10 @@ Ich habe auch weiter am Cisco Pythonkurs gerabeitet.
   
 - Mich weiter über Cloud-Architekturen und die Aufgaben eines Cloud Engineers informieren.
 
+### Planung 26.06.26
+Heute war ich auf OvertheWire.org und habe dort mit den Linux befehlen trainiert ich habe von level 0 bis auf level 12 erarbeitet. Dabei habe ich gelernt wie man cat, file, grap, find, ls, sort, uniq, base64, cd, strings und man benutz. es war sehr anstrengend aber ich konnte vieles lernen bei 12 bin ich stecken geblieben.
+
 
 
 ## Lernperiode Reflexion
-nocht nicht ausfühlen
+Ich würde sage ich bin in dieser Lernperiode mit den richtigen ansatzt gestartet. Ich habe mich auch verbessert, denoch sehe ich es trotzdem meine IT kenntnisse zu verbessern und zu verstärken.
