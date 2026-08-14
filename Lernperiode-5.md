@@ -6,34 +6,32 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+> ich habe eine 5.5 im qv.
 
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+> Ich möchte Produktiver,effektiver und lernbereiter werden, und ein Projekte machen.
 
 ### Projekte / neue Technologien
-> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+> Ich möchte Linux lernen
+> Einen Taschenrechner in C# machen
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+> Fokusierter werden
 
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- Cisco Linux fundamentals Course
+- .Net auf Linux installieren
+- C# dev kit installiern in vsc
 
-(Heute habe ich... (50-100 Wörter))
+
 
 ### Planung 21.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- Linux befehle erlernen
+- herausfinden wie man einen Taschenrecher in C# macht 
 
 (Heute habe ich... (50-100 Wörter))### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
@@ -94,4 +92,4 @@
 (Heute habe ich... (50-100 Wörter))
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+ausfühlen am ender der Lernoeriode
