@@ -33,7 +33,7 @@ Ich konnte C# dev kit auf Debian installieren jedoch, kann ich es noch nicht ben
 ### Planung 21.08.2026
 
 - [X] Linux befehle erlernen
-- [ ] herausfinden wie man einen Taschenrecher in C# macht 
+- [X] herausfinden wie man einen Taschenrecher in C# macht 
 
 Heute habe ich mich garnicht mit C# befasst, habe es vergessesn da ich vertieft war mit dem Linux essentials: ich habe ls gelernt, env, export, variablen, aliase, funktionen ausserdem habe ich mich noch für den C und Python Essenstials Kurs in Netacademy angemeldet.
 
