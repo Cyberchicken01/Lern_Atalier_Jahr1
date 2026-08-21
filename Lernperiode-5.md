@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 ### Noten
-> ich habe eine 5.5 im qv.
+> Schule lauft gut. Ich habe im QV einen Notendurchschnitt von 5.5.
 
 ### Veränderungen
 > Ich möchte Produktiver,effektiver und lernbereiter werden, und ein Projekte machen.
@@ -14,6 +14,8 @@
 ### Projekte / neue Technologien
 > Ich möchte Linux lernen
 > Einen Taschenrechner in C# machen
+> C Essentials Kurs erarbeiten
+> Python Essential Kurs erarbeiten
 
 ### Generelle Ziele
 > Fokusierter werden
@@ -22,26 +24,25 @@
 
 ### Planung 14.08.2026
 
-- Cisco Linux fundamentals Course
-- .Net auf Linux installieren
-- C# dev kit installiern in vsc
+- [X] Cisco Linux fundamentals Course
+- [X] .Net auf Linux installieren
+- [X] C# dev kit installiern in vsc
 
-
+Ich konnte C# dev kit auf Debian installieren jedoch, kann ich es noch nicht bentutzen da ich es trusten muss auf VSC es aber nicht ganz verstehe./ .Net konnte ich installieren indme ich wget aus apt installiert habe und danach mit wget installert habe.
 
 ### Planung 21.08.2026
 
-- Linux befehle erlernen
-- herausfinden wie man einen Taschenrecher in C# macht 
+- [X] Linux befehle erlernen
+- [ ] herausfinden wie man einen Taschenrecher in C# macht 
 
-(Heute habe ich... (50-100 Wörter))### Planung 14.08.2026
-3 bis 5 klar messbare Arbeitspakete.
+Heute habe ich mich garnicht mit C# befasst, habe es vergessesn da ich vertieft war mit dem Linux essentials: ich habe ls gelernt, env, export, variablen, ausserdem habe ich mich noch für den C und Python Essenstials Kurs in Netacademy angemeldet.
 
 ### Planung 28.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Verstehen wie ich mit dem C# dev Kit in VSC auf Linux benutzen kann
+- [ ] Weiterarbeiten am Linux Essentials Kurs
+- [ ] Herraussfinden wei man einen Taschen rechner in C# macht
+- [ ] Beginnen mit dem Taschenrechener in C#
 
 (Heute habe ich... (50-100 Wörter))
 
