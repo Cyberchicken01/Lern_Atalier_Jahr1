@@ -39,19 +39,21 @@ Heute habe ich mich garnicht mit C# befasst, habe es vergessesn da ich vertieft 
 
 ### Planung 28.08.2026
 
-- [ ] Verstehen wie ich mit dem C# dev Kit in VSC auf Linux benutzen kann
+- [x] Verstehen wie ich mit dem C# dev Kit in VSC auf Linux benutzen kann
 - [ ] Weiterarbeiten am Linux Essentials Kurs
-- [ ] Herraussfinden wei man einen Taschen rechner in C# macht
-- [ ] Beginnen mit dem Taschenrechener in C#
+- [x] Herraussfinden wei man einen Taschen rechner in C# macht
+- [x] Beginnen mit dem Taschenrechener in C#
 
-(Heute habe ich... (50-100 Wörter))
+Heute, habe ich damit begonnen zu schauen was ich alles brauche um einen Taschen in C# zu machen, um die Logik zu verstehen, ich habe herrausgefunden da ich einen Taschenrechner machen will mit UI brauche ich WinForms und muss das verstehen wie man damit arbeitet. Ich konnte auch das Problem lösen in VSC mit C# dev kit in C# arbeiten, aber da ich ein UI muss ich VS nutzen was auf linux nicht verfügbar ist. 
+
+
 
 ### Planung 04.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Verstehen wie man mit WinForms arbeitet um mein UI für den Taschenrechner
+- [ ] Code fertigstellen für Taschenrechner
+- [ ] Herrausfinden WinForms allternativen für Linux
+- [ ] 1h am Linux cisco essential kurs weiterarbeiten
 
 (Heute habe ich... (50-100 Wörter))
 
