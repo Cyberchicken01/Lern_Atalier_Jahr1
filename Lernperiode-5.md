@@ -51,19 +51,19 @@ Heute, habe ich damit begonnen zu schauen was ich alles brauche um einen Taschen
 
 ### Planung 04.09.2026
 
-- [ ] Verstehen wie man mit WinForms arbeitet um mein UI für den Taschenrechner
-- [ ] Code fertigstellen für Taschenrechner
-- [ ] Herrausfinden WinForms allternativen für Linux
-- [ ] 1h am Linux cisco essential kurs weiterarbeiten
+- [x] Verstehen wie man mit WinForms arbeitet um mein UI für den Taschenrechner
+- [x] Code fertigstellen für Taschenrechner
+- [x] Herrausfinden WinForms allternativen für Linux
+- [x] 1h am Linux cisco essential kurs weiterarbeiten
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich einen 3h YouTube Kurs für WinForms angefangen, um zu verstehen, wie ich das UI für meinen Taschenrechner aufbauen kann. Ich habe aber relativ schnell gemerkt, dass man dafür auch schon gute C# Kenntnisse haben muss, die mir noch etwas fehlen. Ich muss also zuerst meine C# Grundlagen verbessern, bevor ich mich an grafische Oberflächen wage. Weil ich da nicht richtig weiterkam, habe ich die Zeit stattdessen genutzt und sehr produktiv an meinem Linux Kurs weitergearbeitet.
 
 ### Planung 11.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] C# Grundlagen lernen (Variablen, Datentypen und If-Abfragen)
+- [ ] Herausfinden, wie man Benutzereingaben im Terminal mit C# einliest
+- [ ] Einen simplen Taschenrechner als Konsolenanwendung (ohne UI) schreiben
+- [ ] 1h am Linux Cisco Essential Kurs weiterarbeiten
 
 (Heute habe ich... (50-100 Wörter))
 
