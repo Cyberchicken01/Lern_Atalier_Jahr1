@@ -52,7 +52,7 @@ Heute, habe ich damit begonnen zu schauen was ich alles brauche um einen Taschen
 ### Planung 04.09.2026
 
 - [x] Verstehen wie man mit WinForms arbeitet um mein UI für den Taschenrechner
-- [x] Code fertigstellen für Taschenrechner
+- [ ] Code fertigstellen für Taschenrechner
 - [x] Herrausfinden WinForms allternativen für Linux
 - [x] 1h am Linux cisco essential kurs weiterarbeiten
 
