@@ -60,19 +60,17 @@ Heute habe ich einen 3h YouTube Kurs für WinForms angefangen, um zu verstehen, 
 
 ### Planung 11.09.2026
 
-- [ ] C# Grundlagen lernen (Variablen, Datentypen und If-Abfragen)
-- [ ] Herausfinden, wie man Benutzereingaben im Terminal mit C# einliest
-- [ ] Einen simplen Taschenrechner als Konsolenanwendung (ohne UI) schreiben
-- [ ] 1h am Linux Cisco Essential Kurs weiterarbeiten
+- [x] C# Grundlagen lernen (Variablen, Datentypen und If-Abfragen)
+- [x] Herausfinden, wie man Benutzereingaben im Terminal mit C# einliest
+- [x] Einen simplen Taschenrechner als Konsolenanwendung (ohne UI) schreiben
+- [x] 1h am Linux Cisco Essential Kurs weiterarbeiten
 
-(Heute habe ich... (50-100 Wörter))
+Ich konnte heute einen Simplen Taschenrechner mit ohne UI gemacht und es hat gut geklappt. Ich habe auch weiter am Linux Fundamentals Kurs weiter gemacht. Ich war auf der suche für ein neues Projekt basierend auf OOP und bin zum entschluss gekommen das ich auf der Konsole ein Spiel mache.
 
 ### Planung 18.09.2026
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] OOP Grundlagen in C# anschauen (Verstehen was Klassen und Objekte sind)
+- [ ] Spielidee für das Konsolenspiel festlegen und das erste Grundgerüst programmieren
+- [ ] 1h am Linux Fundamentals Kurs weiterarbeiten
 
 (Heute habe ich... (50-100 Wörter))
 
