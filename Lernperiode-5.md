@@ -68,18 +68,18 @@ Heute habe ich einen 3h YouTube Kurs für WinForms angefangen, um zu verstehen, 
 Ich konnte heute einen Simplen Taschenrechner mit ohne UI gemacht und es hat gut geklappt. Ich habe auch weiter am Linux Fundamentals Kurs weiter gemacht. Ich war auf der suche für ein neues Projekt basierend auf OOP und bin zum entschluss gekommen das ich auf der Konsole ein Spiel mache.
 
 ### Planung 18.09.2026
-- [ ] OOP Grundlagen in C# anschauen (Verstehen was Klassen und Objekte sind)
+
+- [x] OOP Grundlagen in C# anschauen (Verstehen was Klassen und Objekte sind)
 - [ ] Spielidee für das Konsolenspiel festlegen und das erste Grundgerüst programmieren
 - [ ] 1h am Linux Fundamentals Kurs weiterarbeiten
 
-(Heute habe ich... (50-100 Wörter))
+Heute konnte ich leider nicht weiter am Linux kurs arbeiten, da ich aus zeitlichen Gründen keine Zeit hatte! Ich habe meine Idee geändert für ein OOP Projekt von ein Spiel mache ich ein Bankautomat/Konto. Ich habe auf der website von Microsoft einen guten Tutorial gefunden. Ich habe damit begonnen die Klassen zu erstellen habe auch schon mit den Konstruktoren weiter gearbeitet und will es nächste woche beenden.
 
 ### Planung 25.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Bankautomat/Konto beenden
+- [ ] 1h am Linux Fundamentals Kurs weiterarbeiten
+- [ ] Versuchen Git in den OOP Bankautomat/konto projekt zu integrieren.
 
 (Heute habe ich... (50-100 Wörter))
 
