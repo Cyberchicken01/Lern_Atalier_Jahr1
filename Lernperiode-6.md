@@ -57,7 +57,7 @@ Wenn die Grundversion im Terminal funktioniert, möchte ich eine einfache grafis
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
-...Ihr Text...
+So weit wie mödlich mit dem Projekt kommne
 
 ## Tagesplanungen
 <!--
@@ -80,9 +80,13 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ]Ein geeignetes Anfängerprojekt für die Hackathon-Vorbereitung auswählen und die wichtigsten Funktionen festlegen.
+
+- [ ]ython einrichten und ein erstes Programm ausführen, das einen Begrüssungstext ausgibt.
+
+- [ ]Mit Python Essentials 1 beginnen, die ersten Übungen bearbeiten und drei gelernte Begriffe in eigenen Worten erklären.
+
+- [ ]Den Projektordner für die Wetter-App erstellen, Git einrichten und einen ersten Commit mit einer Python-Datei erstellen.
 
 
 #### Tagesreflexion
@@ -93,7 +97,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mich für eine Wetter-App in Python als Projekt entschieden. Bei der Auswahl war mir wichtig, dass das Projekt für Anfänger machbar ist und mich auf den Hackathon vorbereitet. Mir ist klar geworden, dass ich zuerst eine kleine Grundversion planen sollte. Als Unterstützung möchte ich Python Essentials 1 nutzen und das Gelernte direkt anwenden. Mein nächster Schritt ist, die Entwicklungsumgebung einzurichten und erste kleine Programme selbst zu schreiben
 
 
 <!--
