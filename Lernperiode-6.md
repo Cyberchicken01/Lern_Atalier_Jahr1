@@ -44,7 +44,13 @@ Verlinken Sie zu den GitHub Repos Ihrer Projekte.
 (Können Sie später nach und nach einfügen.)
 -->
 
-...Ihr Text...
+### Projekte / neue Technologien
+
+In dieser Lernperiode möchte ich Python lernen und damit eine einfache Wetter-App entwickeln. Dazu beschäftige ich mich zuerst mit den Grundlagen wie Variablen, Benutzereingaben, Bedingungen und Funktionen.
+
+Meine App soll nach der Eingabe eines Ortes die aktuelle Temperatur und eine Beschreibung des Wetters anzeigen. Dafür möchte ich lernen, wie ich Wetterdaten über eine API abrufen und verarbeiten kann. Das Programm soll auch verständlich reagieren, wenn ein Ort nicht gefunden wird.
+
+Wenn die Grundversion im Terminal funktioniert, möchte ich eine einfache grafische Oberfläche ergänzen. Mit diesem Projekt bereite ich mich auf den kommenden Hackathon vor, da ich dort ebenfalls Daten abrufen und in einer Anwendung nutzen könnte.
 
 ### Generelle Ziele
 <!--
