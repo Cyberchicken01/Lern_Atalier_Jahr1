@@ -115,10 +115,15 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+Planung 30.10.2026
 
+- [x]Mit Herrn Lauk besprechen, wie ich mit dem Systemmonitor-Projekt beginne und meine Arbeit plane.
+
+- [x]Das Vorgehen für den Python-Kurs und die schrittweise Entwicklung des Systemmonitors festlegen.
+
+- [x]Git im Projektordner einrichten und die Python-Datei mit einem ersten Commit speichern.
+
+- [x]Das lokale Repository mit GitHub verbinden und die Datei hochladen.
 
 #### Tagesreflexion
 <!--
@@ -128,7 +133,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mit Herrn Lauk darüber gesprochen, wie ich mit meinem Systemmonitor-Projekt beginnen und meine Arbeit planen kann. Ich möchte mit Python Essentials 1 die Grundlagen lernen und diese schrittweise im Projekt anwenden. Ausserdem habe ich mein lokales Repository mit GitHub verbunden und meine Python-Datei hochgeladen. Dabei gab es zunächst Probleme mit den Git-Befehlen. Ich habe gelernt, wie ich Änderungen vormerke, committe und hochlade. Zusätzlich habe ich mit dem Linux Essentials Kurs begonnen, um mein Wissen über Linux zu erweitern.
 
 
 <!--
@@ -146,10 +151,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Im Kurs Python Essentials 1 die Grundlagen zu Ausgaben, Variablen und Datentypen bearbeiten und die zugehörigen Übungen lösen.
+- [ ] Drei eigene kleine Übungen zu Ausgaben und Variablen ohne Vorlage schreiben und ausführen.
+- [ ] Im Systemmonitor einen Titel sowie selbst festgelegte Beispielwerte für CPU- und RAM-Auslastung anzeigen.
+- [ ] Eine kurze README mit dem Projektziel und dem Startbefehl schreiben. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
 
 #### Tagesreflexion
 <!--
