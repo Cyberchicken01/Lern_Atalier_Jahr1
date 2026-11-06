@@ -80,13 +80,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ]Ein geeignetes Anfängerprojekt für die Hackathon-Vorbereitung auswählen und die wichtigsten Funktionen festlegen.
-
-- [ ]ython einrichten und ein erstes Programm ausführen, das einen Begrüssungstext ausgibt.
-
-- [ ]Mit Python Essentials 1 beginnen, die ersten Übungen bearbeiten und drei gelernte Begriffe in eigenen Worten erklären.
-
-- [ ]Den Projektordner für die Wetter-App erstellen, Git einrichten und einen ersten Commit mit einer Python-Datei erstellen.
+- [x]Ein geeignetes Anfängerprojekt für die Hackathon-Vorbereitung auswählen und die wichtigsten Funktionen festlegen.
+- [x]ython einrichten und ein erstes Programm ausführen, das einen Begrüssungstext ausgibt.
+- [x]Mit Python Essentials 1 beginnen, die ersten Übungen bearbeiten und drei gelernte Begriffe in eigenen Worten erklären.
+- [x]Den Projektordner für die Wetter-App erstellen, Git einrichten und einen ersten Commit mit einer Python-Datei erstellen.
 
 
 #### Tagesreflexion
@@ -118,11 +115,8 @@ Beispiele:
 Planung 30.10.2026
 
 - [x]Mit Herrn Lauk besprechen, wie ich mit dem Systemmonitor-Projekt beginne und meine Arbeit plane.
-
 - [x]Das Vorgehen für den Python-Kurs und die schrittweise Entwicklung des Systemmonitors festlegen.
-
 - [x]Git im Projektordner einrichten und die Python-Datei mit einem ersten Commit speichern.
-
 - [x]Das lokale Repository mit GitHub verbinden und die Datei hochladen.
 
 #### Tagesreflexion
