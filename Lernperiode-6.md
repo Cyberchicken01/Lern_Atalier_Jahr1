@@ -151,10 +151,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Im Kurs Python Essentials 1 die Grundlagen zu Ausgaben, Variablen und Datentypen bearbeiten und die zugehörigen Übungen lösen.
-- [ ] Drei eigene kleine Übungen zu Ausgaben und Variablen ohne Vorlage schreiben und ausführen.
+- [x] Im Kurs Python Essentials 1 die Grundlagen zu Ausgaben, Variablen und Datentypen bearbeiten und die zugehörigen Übungen lösen.
+- [x] Drei eigene kleine Übungen zu Ausgaben und Variablen ohne Vorlage schreiben und ausführen.
 - [ ] Im Systemmonitor einen Titel sowie selbst festgelegte Beispielwerte für CPU- und RAM-Auslastung anzeigen.
-- [ ] Eine kurze README mit dem Projektziel und dem Startbefehl schreiben. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
+- [x] Eine kurze README mit dem Projektziel und dem Startbefehl schreiben. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
 
 #### Tagesreflexion
 <!--
@@ -164,38 +164,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
-
-### Planung 13.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
+Heute habe ich Modul 2 von Python Essentials 1 abgeschlossen und eine README.md für mein Projekt erstellt. Damit habe ich am Kurs und an der Projektdokumentation gearbeitet. Am eigentlichen Systemmonitor habe ich heute noch nicht weiterprogrammiert. Für den nächsten Arbeitstag möchte ich das Gelernte mit eigenen Übungen festigen und erste Teile davon im Systemmonitor anwenden. So kann ich überprüfen, welche Inhalte ich bereits selbstständig umsetzen kann.
 
 
 <!--
@@ -213,9 +182,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Drei eigene Übungen zu den Inhalten aus Modul 2 ohne Vorlage schreiben, ausführen und die Ergebnisse überprüfen.
+- [ ] Im Systemmonitor einen Titel sowie selbst festgelegte Beispielwerte für CPU- und RAM-Auslastung anzeigen.
+- [ ] Mit Modul 3 von Python Essentials 1 beginnen und die Übungen des ersten Abschnitts bearbeiten.
+- [ ] Die README um den aktuellen Projektstand und den Startbefehl ergänzen. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
 
 
 #### Tagesreflexion
@@ -232,6 +202,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
+
 
 ### Planung 27.11.2026
 <!--
