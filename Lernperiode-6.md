@@ -175,10 +175,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Drei eigene Übungen zu den Inhalten aus Modul 2 ohne Vorlage schreiben, ausführen und die Ergebnisse überprüfen.
+- [x] Drei eigene Übungen zu den Inhalten aus Modul 2 ohne Vorlage schreiben, ausführen und die Ergebnisse überprüfen.
 - [ ] Im Systemmonitor einen Titel sowie selbst festgelegte Beispielwerte für CPU- und RAM-Auslastung anzeigen.
-- [ ] Mit Modul 3 von Python Essentials 1 beginnen und die Übungen des ersten Abschnitts bearbeiten.
-- [ ] Die README um den aktuellen Projektstand und den Startbefehl ergänzen. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
+- [x] Mit Modul 3 von Python Essentials 1 beginnen und die Übungen des ersten Abschnitts bearbeiten.
+- [x] Die README um den aktuellen Projektstand und den Startbefehl ergänzen. Die Änderungen mit Git überprüfen, committen und auf GitHub hochladen.
 
 
 #### Tagesreflexion
@@ -189,8 +189,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
-
+Heute konnte ich die Aufgaben aus Modul 2 bearbeiten und kleinere Übungen selbstständig umsetzen. Dabei habe ich gemerkt, dass ich zuerst meine Python-Grundlagen festigen muss, bevor ich am Systemmonitor weiterarbeite. Deshalb möchte ich mich zunächst auf den Kurs konzentrieren und das Gelernte mit eigenen Übungen vertiefen. Mein Ziel ist, den Code meines Projekts selbst schreiben und verstehen zu können.
 
 <!--
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
@@ -208,10 +207,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Mit Modul 3 von Python Essentials 1 beginnen und den ersten Abschnitt mit den zugehörigen Übungen bearbeiten.
+- [ ] Die ersten drei Einführungsübungen auf Learn Git Branching lösen und die verwendeten Git-Befehle mit ihrer Bedeutung notieren.
+- [ ] Mich informieren, wie man einen Systemmonitor in Python erstellt. Herausfinden, wie CPU- und RAM-Auslastung ausgelesen werden können, und die benötigte Bibliothek sowie die ersten Umsetzungsschritte dokumentieren.
 
 #### Tagesreflexion
 <!--
