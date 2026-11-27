@@ -100,7 +100,7 @@ Heute habe ich mich für eine Wetter-App in Python als Projekt entschieden. Bei 
 Fügen Sie hier die weiteren Tage der Lernperiode ein.
 -->
 
-### Planung 30.11.2026
+### Planung 30.10.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
@@ -110,8 +110,6 @@ Beispiele:
 - [ ] noch nicht erledigte Aufgabe
 - [x] erledigte Aufgabe
 -->
-
-Planung 30.10.2026
 
 - [x] Mit Herrn Lauk besprechen, wie ich mit dem Systemmonitor-Projekt beginne und meine Arbeit plane.
 - [x] Das Vorgehen für den Python-Kurs und die schrittweise Entwicklung des Systemmonitors festlegen.
