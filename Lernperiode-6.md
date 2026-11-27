@@ -207,9 +207,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] Mit Modul 3 von Python Essentials 1 beginnen und den ersten Abschnitt mit den zugehörigen Übungen bearbeiten.
-- [ ] Die ersten drei Einführungsübungen auf Learn Git Branching lösen und die verwendeten Git-Befehle mit ihrer Bedeutung notieren.
-- [ ] Mich informieren, wie man einen Systemmonitor in Python erstellt. Herausfinden, wie CPU- und RAM-Auslastung ausgelesen werden können, und die benötigte Bibliothek sowie die ersten Umsetzungsschritte dokumentieren.
+- [x] Mit Modul 3 von Python Essentials 1 beginnen und den ersten Abschnitt mit den zugehörigen Übungen bearbeiten.
+- [x] Die ersten drei Einführungsübungen auf Learn Git Branching lösen und die verwendeten Git-Befehle mit ihrer Bedeutung notieren.
+- [x] Mich informieren, wie man einen Systemmonitor in Python erstellt. Herausfinden, wie CPU- und RAM-Auslastung ausgelesen werden können, und die benötigte Bibliothek sowie die ersten Umsetzungsschritte dokumentieren.
 
 #### Tagesreflexion
 <!--
@@ -219,7 +219,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich mir Gedanken über mein weiteres Vorgehen beim Python-Kurs und beim Systemmonitor gemacht. Für das Projekt brauche ich noch mehr Sicherheit in den Grundlagen, deshalb möchte ich mich zunächst auf Modul 3 konzentrieren. Ich merke, dass ich meine Aufgaben kleiner und konkreter planen sollte. Nächste Woche möchte ich einen Kursabschnitt bearbeiten, Git mit praktischen Übungen besser verstehen und die ersten Schritte für den Systemmonitor festhalten.
 
 
 <!--
@@ -237,10 +237,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Den ersten noch offenen Abschnitt von Modul 3 in Python Essentials 1 bearbeiten und die zugehörigen Übungen lösen.
+- [ ] Die ersten drei Einführungsübungen auf Learn Git Branching lösen und die verwendeten Befehle mit ihrer Bedeutung notieren.
+- [ ] Recherchieren, wie man mit Python die CPU- und RAM-Auslastung ausliest. Die benötigte Bibliothek und drei konkrete Schritte für den Einstieg in den Systemmonitor notieren.
 
 #### Tagesreflexion
 <!--
